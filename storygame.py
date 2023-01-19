@@ -9,12 +9,12 @@ if answer == "yes":
     if answer == "K2":
         print("there you can stuck because of bad weather")
         print()
-        answer = input("can you live without food and cold weather?[food/cold]")
+        answer = input("can you live without food and  oxygen ?[food/oxygen]")
         
         if answer =="food":
             print("its impossible,you will die")
           
-        elif answer == "cold" :
+        elif answer == "oxygen" :
             print("are you insane,its impossible")
 
         else:
